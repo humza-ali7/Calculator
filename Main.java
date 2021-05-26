@@ -1,6 +1,6 @@
 /* Simple Java Calculator Script by Humza Ali
    Currently looking to improve script to mimic a more complex scientific 
-   calculator (i.e. more parameters and functions, however still a work in progress. */      
+   calculator (i.e. more parameters and functions, however still a work in progress.) */      
 
 import java.util.Arrays;
 import java.util.Scanner;
